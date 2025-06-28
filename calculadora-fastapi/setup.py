@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="calculadora-fastapi-ps",
-    version="0.1.2",
+    version="0.1.0",
     description="Uma biblioteca simples de calculadora",
     author="Paulo Vitor",
     author_email="kngod4@gmail.com",
